@@ -4,6 +4,7 @@
 int main()
 {
     printf("Hello world!\n");
-     printf("Krystian Sniegoski");
+     printf("Krystian Sniegoski\n");
+     printf("Kacper jarka\n");
     return 0;
 }
